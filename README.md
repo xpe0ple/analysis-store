@@ -22,4 +22,4 @@ Analisis data penjualan Superstore menggunakan SQL Server, Python, dan Power BI.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/image(457).png)
